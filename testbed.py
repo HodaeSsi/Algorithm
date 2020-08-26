@@ -1,3 +1,4 @@
-n = 5
-n //= 2
-print(n)
+test1 = 'ABC'
+test2 = 'B'
+
+print(test1  test2)
