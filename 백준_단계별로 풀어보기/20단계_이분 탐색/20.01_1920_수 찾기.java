@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class Main{
     public static int binarySearch(int[] n, int m ,int s, int e){
+        
         if(m == n[s] || m == n[e]){
             return 1;
         }else{
