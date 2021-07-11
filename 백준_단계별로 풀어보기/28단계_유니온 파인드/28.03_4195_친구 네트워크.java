@@ -15,6 +15,7 @@ class Node {
 }
 
 public class Main {
+
     public static HashMap<String, Node> parent = new HashMap<String, Node>();
 
     public static String find(String child) {

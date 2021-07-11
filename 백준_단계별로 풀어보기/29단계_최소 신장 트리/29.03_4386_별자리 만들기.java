@@ -17,6 +17,7 @@ class Vortex {
 }
 
 class Edge implements Comparable<Edge> {
+
     Vortex start;
     Vortex end;
     double weight;

@@ -6,6 +6,7 @@ import java.util.LinkedList;
 
 public class Main {
     public static void main(String[] args) throws IOException {
+
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String[] readLine = br.readLine().split(" ");
         int colN = Integer.parseInt(readLine[0]);
