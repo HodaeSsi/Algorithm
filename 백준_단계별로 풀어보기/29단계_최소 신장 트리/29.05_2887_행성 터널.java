@@ -32,6 +32,7 @@ class Edge implements Comparable<Edge> {
 }
 
 public class Main {
+
     public static Planet[] planet;
     public static int[][] xList;
     public static int[][] yList;

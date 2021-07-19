@@ -34,6 +34,7 @@ class Edge implements Comparable<Edge> {
 }
 
 public class Main {
+
     public static Vertex[] v;
     public static PriorityQueue<Edge> e = new PriorityQueue<Edge>();
 
