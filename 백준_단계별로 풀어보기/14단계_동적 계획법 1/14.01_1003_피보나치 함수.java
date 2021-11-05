@@ -11,7 +11,6 @@ public class Main{
             int[] N_1 = fibo(n-1);
             int[] N_2 = fibo(n-2);
             int[] test = {N_1[0] + N_2[0], N_1[1] + N_2[1]};
-            //헐 이거 N_1[0] += N_2[0]해버리면 DP에 있는 원소값이 바뀌네(call by reference?(or address?))
             DP.add(test);
             return test;
         }
