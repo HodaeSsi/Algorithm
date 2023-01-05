@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/01단계_입출력과 사칙연산" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02단계_if문" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03단계_for문" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04단계_while문" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08단계_문자열" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11단계_브루트 포스" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13단계_백트래킹" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14단계_동적 계획법 1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/15단계_그리디 알고리즘" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/17단계_스택" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/18단계_큐, 덱" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19단계_분할정복" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20단계_이분 탐색" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/21단계_우선순위 큐" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/22단계_동적 계획법 2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/23단계_DFS와 BFS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/24단계_최단 경로" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/25단계_투 포인터" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/26단계_동적 계획법과 최단거리 역추적" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/27단계_트리" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/28단계_유니온 파인드" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/29단계_최소 신장 트리" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
